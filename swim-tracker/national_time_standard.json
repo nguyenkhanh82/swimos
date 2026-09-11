@@ -1,0 +1,1710 @@
+[
+  {
+    "document_title": "2026 Speedo Junior National Championships Time Standards",
+    "effective_date": "2025-06-01",
+    "standard_type": "Junior National",
+    "groups": [
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "50 FR",
+        "scy": "22.99",
+        "lcm": "26.59"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "100 FR",
+        "scy": "49.99",
+        "lcm": "57.69"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "200 FR",
+        "scy": "1:48.19",
+        "lcm": "2:04.99"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "400/500 FR",
+        "scy": "4:49.99",
+        "lcm": "4:23.59"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "800/1000 FR",
+        "scy": "10:04.69",
+        "lcm": "9:06.79"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "1500/1650 FR",
+        "scy": "17:26.79",
+        "lcm": "16:50.99"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "50 BK",
+        "scy": "25.19",
+        "lcm": "29.79"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "100 BK",
+        "scy": "54.39",
+        "lcm": "1:04.29"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "200 BK",
+        "scy": "1:58.19",
+        "lcm": "2:19.29"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "50 BR",
+        "scy": "28.79",
+        "lcm": "33.69"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "100 BR",
+        "scy": "1:02.39",
+        "lcm": "1:13.29"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "200 BR",
+        "scy": "2:15.39",
+        "lcm": "2:38.59"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "50 FL",
+        "scy": "24.69",
+        "lcm": "28.39"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "100 FL",
+        "scy": "54.09",
+        "lcm": "1:02.49"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "200 FL",
+        "scy": "2:00.49",
+        "lcm": "2:18.39"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "200 IM",
+        "scy": "2:01.09",
+        "lcm": "2:21.29"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "400 IM",
+        "scy": "4:18.79",
+        "lcm": "5:00.29"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "50 FR",
+        "scy": "20.39",
+        "lcm": "23.79"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "100 FR",
+        "scy": "44.39",
+        "lcm": "51.99"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "200 FR",
+        "scy": "1:37.59",
+        "lcm": "1:54.09"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "400/500 FR",
+        "scy": "4:25.59",
+        "lcm": "4:02.19"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "800/1000 FR",
+        "scy": "9:13.19",
+        "lcm": "8:23.09"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "1500/1650 FR",
+        "scy": "15:31.39",
+        "lcm": "16:05.09"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "50 BK",
+        "scy": "22.49",
+        "lcm": "26.69"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "100 BK",
+        "scy": "48.59",
+        "lcm": "58.19"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "200 BK",
+        "scy": "1:46.49",
+        "lcm": "2:06.99"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "50 BR",
+        "scy": "25.29",
+        "lcm": "29.59"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "100 BR",
+        "scy": "54.99",
+        "lcm": "1:05.09"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "200 BR",
+        "scy": "2:00.39",
+        "lcm": "2:22.39"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "50 FL",
+        "scy": "21.99",
+        "lcm": "25.39"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "100 FL",
+        "scy": "48.19",
+        "lcm": "55.89"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "200 FL",
+        "scy": "1:47.89",
+        "lcm": "2:05.09"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "200 IM",
+        "scy": "1:48.49",
+        "lcm": "2:07.99"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "400 IM",
+        "scy": "3:52.69",
+        "lcm": "4:33.09"
+      }
+    ]
+  },
+  {
+    "document_title": "2026 Toyota National Championships Time Standards",
+    "effective_date": "2025-06-01",
+    "standard_type": "National",
+    "groups": [
+      {
+        "age_group": "19 and over",
+        "gender": "F",
+        "event": "50 FR",
+        "scy": "22.19",
+        "lcm": "25.69"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "F",
+        "event": "100 FR",
+        "scy": "48.49",
+        "lcm": "55.89"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "F",
+        "event": "200 FR",
+        "scy": "1:44.99",
+        "lcm": "2:01.19"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "F",
+        "event": "400/500 FR",
+        "scy": "4:41.99",
+        "lcm": "4:16.89"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "F",
+        "event": "800/1000 FR",
+        "scy": "9:45.79",
+        "lcm": "8:46.79"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "F",
+        "event": "1500/1650 FR",
+        "scy": "16:10.39",
+        "lcm": "16:49.19"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "F",
+        "event": "50 BK",
+        "scy": "23.99",
+        "lcm": "28.59"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "F",
+        "event": "100 BK",
+        "scy": "52.29",
+        "lcm": "1:02.19"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "F",
+        "event": "200 BK",
+        "scy": "1:54.09",
+        "lcm": "2:14.59"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "F",
+        "event": "50 BR",
+        "scy": "27.39",
+        "lcm": "32.29"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "F",
+        "event": "100 BR",
+        "scy": "59.99",
+        "lcm": "1:10.29"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "F",
+        "event": "200 BR",
+        "scy": "2:10.39",
+        "lcm": "2:32.39"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "F",
+        "event": "50 FL",
+        "scy": "23.79",
+        "lcm": "27.59"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "F",
+        "event": "100 FL",
+        "scy": "52.19",
+        "lcm": "1:00.19"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "F",
+        "event": "200 FL",
+        "scy": "1:56.09",
+        "lcm": "2:14.59"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "F",
+        "event": "200 IM",
+        "scy": "1:57.09",
+        "lcm": "2:16.89"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "F",
+        "event": "400 IM",
+        "scy": "4:11.39",
+        "lcm": "4:51.79"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "M",
+        "event": "50 FR",
+        "scy": "19.39",
+        "lcm": "22.69"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "M",
+        "event": "100 FR",
+        "scy": "42.49",
+        "lcm": "49.69"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "M",
+        "event": "200 FR",
+        "scy": "1:33.69",
+        "lcm": "1:49.89"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "M",
+        "event": "400/500 FR",
+        "scy": "4:17.19",
+        "lcm": "3:55.59"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "M",
+        "event": "800/1000 FR",
+        "scy": "8:58.39",
+        "lcm": "8:07.59"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "M",
+        "event": "1500/1650 FR",
+        "scy": "14:54.09",
+        "lcm": "15:37.69"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "M",
+        "event": "50 BK",
+        "scy": "21.09",
+        "lcm": "25.49"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "M",
+        "event": "100 BK",
+        "scy": "46.19",
+        "lcm": "55.69"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "M",
+        "event": "200 BK",
+        "scy": "1:41.69",
+        "lcm": "2:02.09"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "M",
+        "event": "50 BR",
+        "scy": "23.89",
+        "lcm": "28.29"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "M",
+        "event": "100 BR",
+        "scy": "52.49",
+        "lcm": "1:02.09"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "M",
+        "event": "200 BR",
+        "scy": "1:54.59",
+        "lcm": "2:16.09"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "M",
+        "event": "50 FL",
+        "scy": "20.89",
+        "lcm": "24.39"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "M",
+        "event": "100 FL",
+        "scy": "45.99",
+        "lcm": "53.49"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "M",
+        "event": "200 FL",
+        "scy": "1:43.39",
+        "lcm": "2:00.89"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "M",
+        "event": "200 IM",
+        "scy": "1:43.89",
+        "lcm": "2:02.89"
+      },
+      {
+        "age_group": "19 and over",
+        "gender": "M",
+        "event": "400 IM",
+        "scy": "3:45.19",
+        "lcm": "4:24.69"
+      }
+    ]
+  },
+  {
+    "document_title": "2026 Toyota National Championships Time Standards",
+    "effective_date": "2025-06-01",
+    "standard_type": "National",
+    "groups": [
+      {
+        "age_group": "18 and under",
+        "gender": "F",
+        "event": "50 FR",
+        "scy": "22.79",
+        "lcm": "26.19"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "F",
+        "event": "100 FR",
+        "scy": "49.49",
+        "lcm": "56.69"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "F",
+        "event": "200 FR",
+        "scy": "1:47.19",
+        "lcm": "2:03.19"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "F",
+        "event": "400/500 FR",
+        "scy": "4:46.29",
+        "lcm": "4:19.89"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "F",
+        "event": "800/1000 FR",
+        "scy": "9:55.99",
+        "lcm": "8:57.89"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "F",
+        "event": "1500/1650 FR",
+        "scy": "16:37.99",
+        "lcm": "17:10.79"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "F",
+        "event": "50 BK",
+        "scy": "25.09",
+        "lcm": "29.69"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "F",
+        "event": "100 BK",
+        "scy": "53.69",
+        "lcm": "1:03.19"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "F",
+        "event": "200 BK",
+        "scy": "1:55.69",
+        "lcm": "2:16.69"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "F",
+        "event": "50 BR",
+        "scy": "28.69",
+        "lcm": "33.29"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "F",
+        "event": "100 BR",
+        "scy": "1:01.59",
+        "lcm": "1:11.29"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "F",
+        "event": "200 BR",
+        "scy": "2:14.29",
+        "lcm": "2:34.19"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "F",
+        "event": "50 FL",
+        "scy": "24.29",
+        "lcm": "28.09"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "F",
+        "event": "100 FL",
+        "scy": "53.29",
+        "lcm": "1:01.39"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "F",
+        "event": "200 FL",
+        "scy": "1:59.39",
+        "lcm": "2:17.59"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "F",
+        "event": "200 IM",
+        "scy": "1:58.99",
+        "lcm": "2:18.19"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "F",
+        "event": "400 IM",
+        "scy": "4:12.69",
+        "lcm": "4:52.69"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "M",
+        "event": "50 FR",
+        "scy": "20.09",
+        "lcm": "23.19"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "M",
+        "event": "100 FR",
+        "scy": "43.69",
+        "lcm": "51.09"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "M",
+        "event": "200 FR",
+        "scy": "1:36.19",
+        "lcm": "1:52.09"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "M",
+        "event": "400/500 FR",
+        "scy": "4:23.99",
+        "lcm": "3:58.39"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "M",
+        "event": "800/1000 FR",
+        "scy": "9:07.59",
+        "lcm": "8:16.99"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "M",
+        "event": "1500/1650 FR",
+        "scy": "15:21.49",
+        "lcm": "15:52.69"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "M",
+        "event": "50 BK",
+        "scy": "22.39",
+        "lcm": "26.39"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "M",
+        "event": "100 BK",
+        "scy": "47.89",
+        "lcm": "56.89"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "M",
+        "event": "200 BK",
+        "scy": "1:44.79",
+        "lcm": "2:03.59"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "M",
+        "event": "50 BR",
+        "scy": "25.19",
+        "lcm": "29.19"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "M",
+        "event": "100 BR",
+        "scy": "53.99",
+        "lcm": "1:03.29"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "M",
+        "event": "200 BR",
+        "scy": "1:57.99",
+        "lcm": "2:18.09"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "M",
+        "event": "50 FL",
+        "scy": "21.89",
+        "lcm": "24.99"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "M",
+        "event": "100 FL",
+        "scy": "47.49",
+        "lcm": "54.69"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "M",
+        "event": "200 FL",
+        "scy": "1:45.89",
+        "lcm": "2:02.89"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "M",
+        "event": "200 IM",
+        "scy": "1:46.79",
+        "lcm": "2:04.69"
+      },
+      {
+        "age_group": "18 and under",
+        "gender": "M",
+        "event": "400 IM",
+        "scy": "3:49.79",
+        "lcm": "4:25.39"
+      }
+    ]
+  },
+  {
+    "document_title": "2026 Speedo Junior National Championships Time Standards",
+    "effective_date": "2025-06-01",
+    "standard_type": "Junior National Bonus",
+    "groups": [
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "50 FR",
+        "scy": "23.89",
+        "lcm": "27.39"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "100 FR",
+        "scy": "51.89",
+        "lcm": "59.29"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "200 FR",
+        "scy": "1:52.29",
+        "lcm": "2:07.79"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "400/500 FR",
+        "scy": "5:02.59",
+        "lcm": "4:28.79"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "800/1000 FR",
+        "scy": "10:20.49",
+        "lcm": "9:13.79"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "1500/1650 FR",
+        "scy": "17:14.39",
+        "lcm": "17:40.19"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "50 BK",
+        "scy": "26.29",
+        "lcm": "30.89"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "100 BK",
+        "scy": "57.09",
+        "lcm": "1:06.79"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "200 BK",
+        "scy": "2:04.19",
+        "lcm": "2:23.99"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "50 BR",
+        "scy": "29.79",
+        "lcm": "34.79"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "100 BR",
+        "scy": "1:05.49",
+        "lcm": "1:15.99"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "200 BR",
+        "scy": "2:22.69",
+        "lcm": "2:43.39"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "50 FL",
+        "scy": "25.69",
+        "lcm": "29.49"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "100 FL",
+        "scy": "56.59",
+        "lcm": "1:04.69"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "200 FL",
+        "scy": "2:05.39",
+        "lcm": "2:21.89"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "200 IM",
+        "scy": "2:06.39",
+        "lcm": "2:26.19"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "400 IM",
+        "scy": "4:30.69",
+        "lcm": "5:07.29"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "50 FR",
+        "scy": "21.29",
+        "lcm": "24.59"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "100 FR",
+        "scy": "46.39",
+        "lcm": "53.59"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "200 FR",
+        "scy": "1:41.59",
+        "lcm": "1:57.79"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "400/500 FR",
+        "scy": "4:37.09",
+        "lcm": "4:09.99"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "800/1000 FR",
+        "scy": "9:34.29",
+        "lcm": "8:40.69"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "1500/1650 FR",
+        "scy": "16:05.49",
+        "lcm": "16:38.99"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "50 BK",
+        "scy": "23.69",
+        "lcm": "27.89"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "100 BK",
+        "scy": "51.49",
+        "lcm": "1:00.59"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "200 BK",
+        "scy": "1:52.79",
+        "lcm": "2:11.89"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "50 BR",
+        "scy": "26.29",
+        "lcm": "30.89"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "100 BR",
+        "scy": "57.99",
+        "lcm": "1:08.19"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "200 BR",
+        "scy": "2:07.99",
+        "lcm": "2:29.09"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "50 FL",
+        "scy": "22.89",
+        "lcm": "26.29"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "100 FL",
+        "scy": "50.59",
+        "lcm": "57.99"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "200 FL",
+        "scy": "1:53.69",
+        "lcm": "2:10.19"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "200 IM",
+        "scy": "1:53.89",
+        "lcm": "2:12.79"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "400 IM",
+        "scy": "4:06.99",
+        "lcm": "4:42.39"
+      }
+    ]
+  },
+  {
+    "document_title": "2026 USA Swimming Futures Championships Time Standards",
+    "effective_date": "2025-06-01",
+    "standard_type": "Futures",
+    "groups": [
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "50 FR",
+        "scy": "23.89",
+        "lcm": "27.39"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "100 FR",
+        "scy": "51.89",
+        "lcm": "59.29"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "200 FR",
+        "scy": "1:52.29",
+        "lcm": "2:07.79"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "400/500 FR",
+        "scy": "5:02.59",
+        "lcm": "4:28.79"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "800/1000 FR",
+        "scy": "10:20.49",
+        "lcm": "9:13.79"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "1500/1650 FR",
+        "scy": "17:14.39",
+        "lcm": "17:40.19"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "50 BK",
+        "scy": "26.29",
+        "lcm": "30.89"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "100 BK",
+        "scy": "57.09",
+        "lcm": "1:06.79"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "200 BK",
+        "scy": "2:04.19",
+        "lcm": "2:23.99"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "50 BR",
+        "scy": "29.79",
+        "lcm": "34.79"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "100 BR",
+        "scy": "1:05.49",
+        "lcm": "1:15.99"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "200 BR",
+        "scy": "2:22.69",
+        "lcm": "2:43.39"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "50 FL",
+        "scy": "25.69",
+        "lcm": "29.49"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "100 FL",
+        "scy": "56.59",
+        "lcm": "1:04.69"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "200 FL",
+        "scy": "2:05.39",
+        "lcm": "2:21.89"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "200 IM",
+        "scy": "2:06.39",
+        "lcm": "2:26.19"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "F",
+        "event": "400 IM",
+        "scy": "4:30.69",
+        "lcm": "5:07.29"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "50 FR",
+        "scy": "21.29",
+        "lcm": "24.59"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "100 FR",
+        "scy": "46.39",
+        "lcm": "53.59"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "200 FR",
+        "scy": "1:41.59",
+        "lcm": "1:57.79"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "400/500 FR",
+        "scy": "4:37.09",
+        "lcm": "4:09.99"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "800/1000 FR",
+        "scy": "9:34.29",
+        "lcm": "8:40.69"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "1500/1650 FR",
+        "scy": "16:05.49",
+        "lcm": "16:38.99"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "50 BK",
+        "scy": "23.69",
+        "lcm": "27.89"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "100 BK",
+        "scy": "51.49",
+        "lcm": "1:00.59"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "200 BK",
+        "scy": "1:52.79",
+        "lcm": "2:11.89"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "50 BR",
+        "scy": "26.29",
+        "lcm": "30.89"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "100 BR",
+        "scy": "57.99",
+        "lcm": "1:08.19"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "200 BR",
+        "scy": "2:07.99",
+        "lcm": "2:29.09"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "50 FL",
+        "scy": "22.89",
+        "lcm": "26.29"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "100 FL",
+        "scy": "50.59",
+        "lcm": "57.99"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "200 FL",
+        "scy": "1:53.69",
+        "lcm": "2:10.19"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "200 IM",
+        "scy": "1:53.89",
+        "lcm": "2:12.79"
+      },
+      {
+        "age_group": "18 & Under",
+        "gender": "M",
+        "event": "400 IM",
+        "scy": "4:06.99",
+        "lcm": "4:42.39"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "F",
+        "event": "50 FR",
+        "scy": "22.99",
+        "lcm": "26.59"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "F",
+        "event": "100 FR",
+        "scy": "49.99",
+        "lcm": "57.69"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "F",
+        "event": "200 FR",
+        "scy": "1:48.19",
+        "lcm": "2:04.99"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "F",
+        "event": "400/500 FR",
+        "scy": "4:49.99",
+        "lcm": "4:23.59"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "F",
+        "event": "800/1000 FR",
+        "scy": "10:04.69",
+        "lcm": "9:06.79"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "F",
+        "event": "1500/1650 FR",
+        "scy": "16:50.99",
+        "lcm": "17:26.79"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "F",
+        "event": "50 BK",
+        "scy": "25.19",
+        "lcm": "29.79"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "F",
+        "event": "100 BK",
+        "scy": "54.39",
+        "lcm": "1:04.29"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "F",
+        "event": "200 BK",
+        "scy": "1:58.19",
+        "lcm": "2:19.29"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "F",
+        "event": "50 BR",
+        "scy": "28.79",
+        "lcm": "33.69"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "F",
+        "event": "100 BR",
+        "scy": "1:02.39",
+        "lcm": "1:13.29"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "F",
+        "event": "200 BR",
+        "scy": "2:15.39",
+        "lcm": "2:38.59"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "F",
+        "event": "50 FL",
+        "scy": "24.69",
+        "lcm": "28.39"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "F",
+        "event": "100 FL",
+        "scy": "54.09",
+        "lcm": "1:02.49"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "F",
+        "event": "200 FL",
+        "scy": "2:00.49",
+        "lcm": "2:18.39"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "F",
+        "event": "200 IM",
+        "scy": "2:01.09",
+        "lcm": "2:21.29"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "F",
+        "event": "400 IM",
+        "scy": "4:18.79",
+        "lcm": "5:00.29"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "M",
+        "event": "50 FR",
+        "scy": "20.39",
+        "lcm": "23.79"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "M",
+        "event": "100 FR",
+        "scy": "44.39",
+        "lcm": "51.99"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "M",
+        "event": "200 FR",
+        "scy": "1:37.59",
+        "lcm": "1:54.09"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "M",
+        "event": "400/500 FR",
+        "scy": "4:25.59",
+        "lcm": "4:02.19"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "M",
+        "event": "800/1000 FR",
+        "scy": "9:13.19",
+        "lcm": "8:23.09"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "M",
+        "event": "1500/1650 FR",
+        "scy": "15:31.39",
+        "lcm": "16:05.09"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "M",
+        "event": "50 BK",
+        "scy": "22.49",
+        "lcm": "26.69"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "M",
+        "event": "100 BK",
+        "scy": "48.59",
+        "lcm": "58.19"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "M",
+        "event": "200 BK",
+        "scy": "1:46.49",
+        "lcm": "2:06.99"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "M",
+        "event": "50 BR",
+        "scy": "25.29",
+        "lcm": "29.59"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "M",
+        "event": "100 BR",
+        "scy": "54.99",
+        "lcm": "1:05.09"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "M",
+        "event": "200 BR",
+        "scy": "2:00.39",
+        "lcm": "2:22.39"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "M",
+        "event": "50 FL",
+        "scy": "21.99",
+        "lcm": "25.39"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "M",
+        "event": "100 FL",
+        "scy": "48.19",
+        "lcm": "55.89"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "M",
+        "event": "200 FL",
+        "scy": "1:47.89",
+        "lcm": "2:05.09"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "M",
+        "event": "200 IM",
+        "scy": "1:48.49",
+        "lcm": "2:07.99"
+      },
+      {
+        "age_group": "19 & Over",
+        "gender": "M",
+        "event": "400 IM",
+        "scy": "3:52.69",
+        "lcm": "4:33.09"
+      }
+    ]
+  },
+  {
+    "document_title": "2026 Maximum Time Standards Speedo Sectionals",
+    "effective_date": "2025-06-01",
+    "standard_type": "Sectional",
+    "groups": [
+      {
+        "age_group": "All Age",
+        "gender": "F",
+        "event": "50 FR",
+        "scy": "24.49",
+        "lcm": "28.09"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "F",
+        "event": "100 FR",
+        "scy": "53.09",
+        "lcm": "1:00.69"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "F",
+        "event": "200 FR",
+        "scy": "1:53.79",
+        "lcm": "2:10.99"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "F",
+        "event": "400/500 FR",
+        "scy": "5:05.09",
+        "lcm": "4:35.29"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "F",
+        "event": "800/1000 FR",
+        "scy": "10:28.79",
+        "lcm": "9:27.39"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "F",
+        "event": "1500/1650 FR",
+        "scy": "17:25.69",
+        "lcm": "18:06.09"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "F",
+        "event": "50 BK",
+        "scy": "27.29",
+        "lcm": "31.49"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "F",
+        "event": "100 BK",
+        "scy": "58.99",
+        "lcm": "1:07.89"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "F",
+        "event": "200 BK",
+        "scy": "2:07.19",
+        "lcm": "2:26.99"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "F",
+        "event": "50 BR",
+        "scy": "30.69",
+        "lcm": "35.59"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "F",
+        "event": "100 BR",
+        "scy": "1:06.89",
+        "lcm": "1:17.19"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "F",
+        "event": "200 BR",
+        "scy": "2:24.69",
+        "lcm": "2:46.69"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "F",
+        "event": "50 FL",
+        "scy": "26.69",
+        "lcm": "30.29"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "F",
+        "event": "100 FL",
+        "scy": "58.19",
+        "lcm": "1:05.79"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "F",
+        "event": "200 FL",
+        "scy": "2:08.89",
+        "lcm": "2:25.09"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "F",
+        "event": "200 IM",
+        "scy": "2:09.29",
+        "lcm": "2:28.49"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "F",
+        "event": "400 IM",
+        "scy": "4:33.39",
+        "lcm": "5:12.99"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "M",
+        "event": "50 FR",
+        "scy": "21.69",
+        "lcm": "25.29"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "M",
+        "event": "100 FR",
+        "scy": "47.39",
+        "lcm": "54.79"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "M",
+        "event": "200 FR",
+        "scy": "1:43.79",
+        "lcm": "2:00.49"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "M",
+        "event": "400/500 FR",
+        "scy": "4:42.79",
+        "lcm": "4:15.79"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "M",
+        "event": "800/1000 FR",
+        "scy": "9:42.99",
+        "lcm": "8:49.99"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "M",
+        "event": "1500/1650 FR",
+        "scy": "16:24.39",
+        "lcm": "16:56.49"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "M",
+        "event": "50 BK",
+        "scy": "24.49",
+        "lcm": "28.69"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "M",
+        "event": "100 BK",
+        "scy": "53.39",
+        "lcm": "1:01.99"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "M",
+        "event": "200 BK",
+        "scy": "1:54.89",
+        "lcm": "2:13.79"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "M",
+        "event": "50 BR",
+        "scy": "27.19",
+        "lcm": "31.99"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "M",
+        "event": "100 BR",
+        "scy": "59.79",
+        "lcm": "1:09.69"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "M",
+        "event": "200 BR",
+        "scy": "2:09.69",
+        "lcm": "2:30.89"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "M",
+        "event": "50 FL",
+        "scy": "23.69",
+        "lcm": "27.39"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "M",
+        "event": "100 FL",
+        "scy": "52.09",
+        "lcm": "59.59"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "M",
+        "event": "200 FL",
+        "scy": "1:55.09",
+        "lcm": "2:11.79"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "M",
+        "event": "200 IM",
+        "scy": "1:57.09",
+        "lcm": "2:15.19"
+      },
+      {
+        "age_group": "All Age",
+        "gender": "M",
+        "event": "400 IM",
+        "scy": "4:11.19",
+        "lcm": "4:47.59"
+      }
+    ]
+  }
+]

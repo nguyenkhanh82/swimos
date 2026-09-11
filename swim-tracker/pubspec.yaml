@@ -1,0 +1,68 @@
+name: swim_tracker_mobile
+description: "SwimTrack Pro - Mobile App"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  
+  # State Management
+  flutter_riverpod: ^2.4.9
+  riverpod_annotation: ^2.3.3
+
+  # Backend & Auth
+  supabase_flutter: ^2.3.2
+  
+  # Navigation
+  go_router: ^12.1.0
+
+  # UI & Styling
+  google_fonts: ^6.1.0
+  fl_chart: ^0.65.0
+  flutter_animate: ^4.5.0
+  intl: ^0.20.2
+  glassmorphism: ^3.0.0
+
+  # Utilities
+  json_annotation: ^4.8.1
+  freezed_annotation: ^2.4.1
+  uuid: ^4.2.1
+  flutter_dotenv: ^5.1.0
+  shared_preferences: ^2.2.2
+  
+  # OAuth & API
+  url_launcher: ^6.3.2
+  flutter_secure_storage: ^9.0.0
+  http: ^1.2.0
+  crypto: ^3.0.3
+  app_links: ^6.4.1
+  percent_indicator: ^4.2.5
+  webview_flutter: ^4.13.1
+  webview_flutter_wkwebview: ^3.23.7
+  webview_flutter_android: ^4.10.13
+  image_picker: ^1.2.1
+
+dev_dependencies:
+  integration_test:
+    sdk: flutter
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  build_runner: ^2.5.4
+  riverpod_generator: ^2.3.9
+  freezed: ^2.4.6
+  json_serializable: ^6.7.1
+  mockito: ^5.4.6
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - .env
+    - time_standard.json

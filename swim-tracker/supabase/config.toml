@@ -1,0 +1,49 @@
+project_id = "kuwotiliouajfdjejsny"
+
+[functions.generate-race-plan]
+verify_jwt = true
+
+[functions.generate-meal-plan]
+verify_jwt = true
+
+[functions.suggest-training]
+verify_jwt = true
+
+[functions.suggest-goals]
+verify_jwt = false
+
+[functions.fetch-swimmer-times-swimcloud]
+verify_jwt = false
+
+[functions.generate-practice]
+enabled = true
+verify_jwt = false
+import_map = "./functions/generate-practice/deno.json"
+# Uncomment to specify a custom file path to the entrypoint.
+# Supported file extensions are: .ts, .js, .mjs, .jsx, .tsx
+entrypoint = "./functions/generate-practice/index.ts"
+# Specifies static files to be bundled with the function. Supports glob patterns.
+# For example, if you want to serve static HTML pages in your function:
+# static_files = [ "./functions/generate-practice/*.html" ]
+
+[functions.analyze-nutrition]
+enabled = true
+verify_jwt = true
+import_map = "./functions/analyze-nutrition/deno.json"
+# Uncomment to specify a custom file path to the entrypoint.
+# Supported file extensions are: .ts, .js, .mjs, .jsx, .tsx
+entrypoint = "./functions/analyze-nutrition/index.ts"
+# Specifies static files to be bundled with the function. Supports glob patterns.
+# For example, if you want to serve static HTML pages in your function:
+# static_files = [ "./functions/analyze-nutrition/*.html" ]
+
+[functions.generate-macro-plan]
+enabled = true
+verify_jwt = true
+import_map = "./functions/generate-macro-plan/deno.json"
+# Uncomment to specify a custom file path to the entrypoint.
+# Supported file extensions are: .ts, .js, .mjs, .jsx, .tsx
+entrypoint = "./functions/generate-macro-plan/index.ts"
+# Specifies static files to be bundled with the function. Supports glob patterns.
+# For example, if you want to serve static HTML pages in your function:
+# static_files = [ "./functions/generate-macro-plan/*.html" ]

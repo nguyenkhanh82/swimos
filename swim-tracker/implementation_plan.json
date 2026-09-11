@@ -1,0 +1,32 @@
+{
+  "spec_name": "001-add-swim-time-screen",
+  "qa_signoff": {
+    "status": "fixes_applied",
+    "timestamp": "2026-02-18T20:55:00Z",
+    "fix_session": 1,
+    "issues_fixed": [
+      {
+        "title": "Constructor parameter mismatch in app_router.dart",
+        "fix_commit": "c282957b2f16d4f507f82852dd77f96a87f8bcab"
+      },
+      {
+        "title": "SwimTime construction errors in integration test",
+        "fix_commit": "c282957b2f16d4f507f82852dd77f96a87f8bcab"
+      },
+      {
+        "title": "Wrong button type in integration test",
+        "fix_commit": "c282957b2f16d4f507f82852dd77f96a87f8bcab"
+      },
+      {
+        "title": "Wrong property name in test assertion",
+        "fix_commit": "c282957b2f16d4f507f82852dd77f96a87f8bcab"
+      },
+      {
+        "title": "Stroke enum comparison fixes in test",
+        "fix_commit": "c282957b2f16d4f507f82852dd77f96a87f8bcab"
+      }
+    ],
+    "ready_for_qa_revalidation": true,
+    "notes": "All code fixes applied. Freezed code generation (flutter pub run build_runner build --delete-conflicting-outputs) needs to be run in an environment with Flutter SDK to generate swim_time.freezed.dart and swim_time.g.dart"
+  }
+}

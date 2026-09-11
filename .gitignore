@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSSharedFileList
+*.webarchive
+
+# IDEs & Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environment & Secrets
+.env
+*.env
+*.env.local
+
+# Flutter / Dart
+**/build/
+**/.dart_tool/
+**/.flutter-plugins
+**/.flutter-plugins-dependencies
+**/.pub-cache/
+**/.pub/
+
+# Node / JS
+**/node_modules/
+
+# Python
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+**/*.egg-info/
+**/.venv/
+**/.pytest_cache/

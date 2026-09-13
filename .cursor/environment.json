@@ -1,6 +1,7 @@
 {
   "name": "SwimOS",
   "install": "bash .cursor/install.sh",
+  "start": "true",
   "chromeExecutablePath": "/usr/bin/google-chrome-stable",
   "terminals": [
     {
